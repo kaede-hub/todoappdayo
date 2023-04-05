@@ -5,3 +5,31 @@
   text-align: center;
 }
 
+body {
+  background-color: skyblue;
+}
+
+select {
+  margin:20px;
+  padding: 10px;
+  width: 200px;
+}
+
+input {
+  border-radius: 5px;
+  padding: 10px;
+}
+
+input:hover {
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+button {
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+li {
+  list-style: none;
+}
