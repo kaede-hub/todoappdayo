@@ -105,6 +105,7 @@ export const App = () => {
   return (
     <div>
       <h1>Todoサイト</h1>
+      <p>やることリスト</p>
       <select
         defaultValue="all"
         onChange={(e) => handleSort(e.target.value as Filter)}
